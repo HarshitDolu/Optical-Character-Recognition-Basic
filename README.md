@@ -28,8 +28,8 @@ The latest installers can be downloaded here:
 
 ## Text Detection
 
-<img src="https://github.com/HarshitDolu/OpenCv_Basics/blob/main/demo/2.png" width="800">
+<img src="https://github.com/HarshitDolu/Optical-Character-Recognition-Basic/blob/main/1.png" width="800">
 
 ## Simple Number plate detection and Text Extraction
 
-<img src="https://github.com/HarshitDolu/OpenCv_Basics/blob/main/demo/2.png" width="800">
+<img src="https://github.com/HarshitDolu/Optical-Character-Recognition-Basic/blob/main/3.png" width="800">
