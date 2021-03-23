@@ -23,3 +23,13 @@ The latest installers can be downloaded here:
 
 <a href='tesseract-ocr-w32-setup-v5.0.0-alpha.20201127.exe (32 bit)'>tesseract-ocr-w32-setup-v5.0.0-alpha.20201127.exe (32 bit)</a><br>
 <a href='tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe (64 bit) resp'>tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe (64 bit)</a>
+
+<br>
+
+## Text Detection
+
+<img src="https://github.com/HarshitDolu/OpenCv_Basics/blob/main/demo/2.png" width="800">
+
+## Simple Number plate detection and Text Extraction
+
+<img src="https://github.com/HarshitDolu/OpenCv_Basics/blob/main/demo/2.png" width="800">
